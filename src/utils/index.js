@@ -1,0 +1,1 @@
+export { default as titleController } from './titleController.js';
